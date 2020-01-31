@@ -92,8 +92,8 @@ card.classList.add('cards')
 
 let cardHtml = generatePlayerCard('Panther', 22, 200)
 cardHtml += generatePlayerCard('Vnk', 25, 200)
-cardHtml += generatePlayerCard('Dgen', 25, 200)
 cardHtml += generatePlayerCard('Sherry', 22, 200)
+cardHtml += generatePlayerCard('Dgen', 25, 200)
 
 // append those cards to the div
 
